@@ -1,8 +1,0 @@
-/*오리 정의*/
-class Duck 
-{
-	public static void main(String[] args) 
-	{
-		System.out.println("Hello World!");
-	}
-}
